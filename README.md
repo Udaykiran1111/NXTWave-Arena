@@ -4,8 +4,7 @@
 
 A college-vs-college growth game for a free workshop. Every college is a bubble in a live arena. Each student who joins makes their college's bubble bigger, and the squad whose members actually **show up and ship a project** wins.
 
-> Live demo: `ADD-YOUR-VERCEL-LINK-HERE`
-> Admin page: `ADD-YOUR-VERCEL-LINK-HERE/?admin`
+> Live demo: `https://nxt-wave-arena.vercel.app/`
 
 ---
 
